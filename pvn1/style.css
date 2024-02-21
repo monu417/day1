@@ -1,0 +1,13 @@
+#question{
+    text-align: center;
+}
+#response{
+    text-align: center;
+}
+.res{
+    width:100px;
+    height:80px;
+    color: black;
+    background-color: pink;
+    font-size: x-large;
+}
